@@ -43,4 +43,18 @@ AI-Voice-Assistant
 ├── requirements.txt
 ├── README.md
 ├── .gitignore
-└── images
+
+
+to run:-
+activate the streamlit by enter in terminal:-
+venv\Scripts\activate
+
+
+then type and run:-
+streamlit run app.py
+
+the file will open like:=
+Local URL: http://localhost:8501
+
+
+
